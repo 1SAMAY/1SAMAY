@@ -86,6 +86,12 @@ const samay = {
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1SAMAY&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/1SAMAY/1SAMAY/output/snake.svg" alt="Snake animation" />
+</div>
+
 ## Current Focus
 
 - Building stronger frontend systems
