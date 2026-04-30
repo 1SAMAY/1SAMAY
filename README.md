@@ -43,9 +43,17 @@
 - I'm always improving my stack, workflow, and problem-solving skills.
 
 
-<a href="https://samay-dev-portfolio.vercel.app/">
+<p align="center">
+  <a href="https://github.com/1SAMAY">
+    <img src="https://img.shields.io/github/followers/1SAMAY?label=Followers&style=for-the-badge" alt="followers" />
+  </a>
+  <a href="https://github.com/1SAMAY?tab=repositories">
+    <img src="https://img.shields.io/github/stars/1SAMAY?affiliations=OWNER&style=for-the-badge" alt="stars" />
+  </a>
+  <a href="https://samay-dev-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-8ef0c8?style=for-the-badge" alt="portfolio" />
   </a>
+</p>
   
 ## Pro Developer Mode
 
