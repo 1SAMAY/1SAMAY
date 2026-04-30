@@ -42,6 +42,11 @@
 - I care about maintainable code, good architecture, and strong user experience.
 - I'm always improving my stack, workflow, and problem-solving skills.
 
+
+<a href="https://samay-dev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-8ef0c8?style=for-the-badge" alt="portfolio" />
+  </a>
+  
 ## Pro Developer Mode
 
 - Mindset: Pro
