@@ -98,10 +98,13 @@
 
 ## Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1SAMAY/1SAMAY/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+</picture>
+<br>
 
 ## Current Focus
 
