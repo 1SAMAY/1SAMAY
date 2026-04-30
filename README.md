@@ -87,10 +87,10 @@ const samay = {
 </div>
 
 ## Contribution Snake
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/1SAMAY/1SAMAY/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 
 ## Current Focus
 
