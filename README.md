@@ -49,13 +49,4 @@ I build clean, fast, and responsive web experiences with a strong focus on UI, m
 
 ---
 
-## Current Focus
 
-```ts
-const samay = {
-  role: "Frontend Developer",
-  location: "India",
-  mindset: "Build polished experiences that feel simple, fast, and premium",
-  focus: ["UI Design", "Responsive Web Apps", "Motion", "Portfolio Builds"],
-  tools: ["HTML", "CSS", "TypeScript", "React", "Vite"],
-};
