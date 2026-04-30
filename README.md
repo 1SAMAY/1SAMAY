@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Samay Dudhrejiya
 
 <!-- banner -->
-<img src="./assets/banner.jpeg" width="100%"/>
+
 
 <p align="left">
   Front-end developer. Proficient in building responsive, user-friendly interfaces and translating designs into functional applications.
