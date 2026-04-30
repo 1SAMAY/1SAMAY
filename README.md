@@ -1,86 +1,104 @@
+# Hi, I'm Samay.
 
-# Samay Dudhrejiya
+<div align="center">
+  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile banner">
+    <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0f172a" />
+        <stop offset="50%" stop-color="#111827" />
+        <stop offset="100%" stop-color="#1f2937" />
+      </linearGradient>
+      <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#38bdf8" />
+        <stop offset="50%" stop-color="#22c55e" />
+        <stop offset="100%" stop-color="#f59e0b" />
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="180" rx="24" fill="url(#bg)" />
+    <circle cx="1040" cy="45" r="56" fill="#38bdf8" opacity="0.15" />
+    <circle cx="1110" cy="125" r="80" fill="#22c55e" opacity="0.10" />
+    <path d="M0 132 C 180 110, 280 160, 420 132 S 700 100, 840 132 S 1040 160, 1200 118" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" />
+    <text x="60" y="78" fill="#ffffff" font-size="38" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Pro Developer Profile</text>
+    <text x="60" y="116" fill="#cbd5e1" font-size="20" font-family="Segoe UI, Arial, sans-serif">Building clean, scalable, and modern digital experiences</text>
+  </svg>
+</div>
 
-<!-- banner -->
-
-
-<p align="left">
-  Front-end developer. Proficient in building responsive, user-friendly interfaces and translating designs into functional applications.
-  Focused on clean UI, motion, and practical experiences that feel polished and modern.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;Problem+Solver;UI%2FUX+Focused;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-### You can reach me at: **<Samay4932@gmail.com>**
-
-<!-- good stuff -->
-
-<a href="https://samay-dev-portfolio.vercel.app/">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
-
-<br>
-<br>
-
-<details open>
-<summary><b>Skills and Tools</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![Next js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)&nbsp;
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Node js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Express js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-</details>
-
-## Featured Projects
-
-- Personal AI Assistant
-- Media Downloader Extension
-- Game Store
-- DevDock
+<p align="center">
+  <a href="https://github.com/1SAMAY">
+    <img src="https://img.shields.io/badge/GitHub-1SAMAY-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Mode-Pro%20Developer-38bdf8?style=for-the-badge" alt="Pro developer badge" />
+</p>
 
 ## About Me
 
-- Based in India
-- Front-end developer
-- Love building portfolio sites, developer tools, and interactive UI
-- Focused on performance, clean design, and smooth motion
+- I build modern web experiences with a focus on performance, clarity, and clean UI.
+- I like turning ideas into polished products that feel smooth and professional.
+- I care about maintainable code, good architecture, and strong user experience.
+- I'm always improving my stack, workflow, and problem-solving skills.
+
+## Pro Developer Mode
+
+```js
+const samay = {
+  mindset: "pro",
+  focus: ["frontend", "ui engineering", "product thinking"],
+  values: ["quality", "speed", "consistency"],
+  mission: "build useful things beautifully",
+};
+```
+
+## What I Bring
+
+<table>
+  <tr>
+    <td><strong>Clean UI</strong><br/>Modern layouts with attention to detail.</td>
+    <td><strong>Fast Delivery</strong><br/>I move quickly without losing quality.</td>
+  </tr>
+  <tr>
+    <td><strong>Strong Ownership</strong><br/>I take responsibility from idea to finish.</td>
+    <td><strong>Growth Mindset</strong><br/>I keep learning and leveling up.</td>
+  </tr>
+</table>
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,git,github,vscode" alt="Tech stack icons" />
+</p>
+
+## Featured Functions
+
+- `build()` - transform ideas into production-ready interfaces
+- `optimize()` - improve performance and user experience
+- `ship()` - deliver reliably with attention to detail
+- `iterate()` - keep improving with feedback and data
+
+## GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1SAMAY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1SAMAY&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
 ## Current Focus
 
-```ts
-const samay = {
-  role: "Frontend Developer",
-  location: "India",
-  focus: ["UI Design", "Responsive Web Apps", "Motion", "Portfolio Builds"],
-  tools: ["HTML", "CSS", "TypeScript", "React", "Vite", "Next.js"],
-  projects: [
-    "Personal AI Assistant",
-    "Media Downloader Extension",
-    "Game Store",
-    "DevDock",
-  ],
-};
+- Building stronger frontend systems
+- Writing cleaner and more reusable code
+- Improving design sense and visual polish
+- Learning tools that increase developer speed
 
+## Let's Connect
 
+If you want to collaborate, build something cool, or just talk tech, feel free to reach out through GitHub.
+
+---
+
+<p align="center">
+  <i>Making simple things feel premium.</i>
+</p>
