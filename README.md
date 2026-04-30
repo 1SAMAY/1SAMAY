@@ -82,11 +82,10 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1SAMAY&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
-## Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1SAMAY/1SAMAY/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1SAMAY/1SAMAY/output/snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/1SAMAY/1SAMAY/output/snake-light.svg">
+</picture>
 
 ## Current Focus
 
