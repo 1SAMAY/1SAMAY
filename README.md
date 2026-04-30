@@ -44,14 +44,10 @@
 
 ## Pro Developer Mode
 
-```js
-const samay = {
-  mindset: "pro",
-  focus: ["frontend", "ui engineering", "product thinking"],
-  values: ["quality", "speed", "consistency"],
-  mission: "build useful things beautifully",
-};
-```
+- Mindset: Pro
+- Focus: Frontend, UI Engineering, Product Thinking
+- Values: Quality, Speed, Consistency
+- Mission: Build useful things beautifully
 
 ## What I Bring
 
