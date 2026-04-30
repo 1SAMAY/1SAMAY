@@ -43,8 +43,9 @@
 - I'm always improving my stack, workflow, and problem-solving skills.
 
 
-<a href="https://youtu.be/xvFZjo5PgG0?si=4g5LqRk7biVjJ7Sq"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  
+<a href="https://samay-dev-portfolio.vercel.app/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
 ## Pro Developer Mode
 
 - Mindset: Pro
