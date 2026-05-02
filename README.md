@@ -94,8 +94,12 @@
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1SAMAY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1SAMAY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+</div>
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1SAMAY&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
