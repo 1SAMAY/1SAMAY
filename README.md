@@ -35,6 +35,11 @@
   <img src="https://img.shields.io/badge/Mode-Pro%20Developer-38bdf8?style=for-the-badge" alt="Pro developer badge" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1SAMAY&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS" />
+  </a>
+</p>
+
 ## About Me
 
 - I build modern web experiences with a focus on performance, clarity, and clean UI.
